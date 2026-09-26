@@ -1,0 +1,30 @@
+/* @import url() FONT IMPORTS MUST ALWAYS BE AT THE VERY TOP OF THIS FILE, ABOVE THE TAILWIND IMPORTS — DO NOT DELETE THIS COMMENT */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Manrope:wght@400;500;600&display=swap');
+
+/* CRITICAL: THE FOLLOWING TAILWIND IMPORTS MUST NEVER BE DELETED OR REORDERED — DO NOT DELETE THIS COMMENT */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* END TAILWIND IMPORTS — ALL OTHER CSS MUST GO BELOW THIS LINE */
+
+:root {
+  --mist: 241 242 236;
+  --ink: 38 48 43;
+  --muted: 107 117 111;
+  --line: 218 222 212;
+  --sage: 85 117 101;
+  --sage-soft: 169 189 176;
+  --sand: 231 225 212;
+}
+html,
+body,
+#root {
+  height: 100%;
+  background: rgb(var(--mist));
+}
+body {
+  font-family: 'Manrope', system-ui, sans-serif;
+  color: rgb(var(--ink));
+  -webkit-font-smoothing: antialiased;
+}

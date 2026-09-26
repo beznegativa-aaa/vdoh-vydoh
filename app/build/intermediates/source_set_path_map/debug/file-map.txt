@@ -1,0 +1,42 @@
+com.example.vdohvydoh.app-lifecycle-viewmodel-2.7.0-0 C:\Users\Руслан\.gradle\caches\transforms-3\01b745148b3a3926a7d19fb58608871f\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.vdohvydoh.app-core-1.12.0-1 C:\Users\Руслан\.gradle\caches\transforms-3\01d57c04781da875a4d63ad54bdb1016\transformed\core-1.12.0\res
+com.example.vdohvydoh.app-jetified-savedstate-1.2.1-2 C:\Users\Руслан\.gradle\caches\transforms-3\042c12e606874a87da74f50276c4b557\transformed\jetified-savedstate-1.2.1\res
+com.example.vdohvydoh.app-jetified-profileinstaller-1.3.0-3 C:\Users\Руслан\.gradle\caches\transforms-3\0f43b0ed4a91f9dcf28ee0ffe77c0328\transformed\jetified-profileinstaller-1.3.0\res
+com.example.vdohvydoh.app-jetified-ui-release-4 C:\Users\Руслан\.gradle\caches\transforms-3\1688a6169dc7637fc2103a5ed5d91c10\transformed\jetified-ui-release\res
+com.example.vdohvydoh.app-jetified-material-ripple-release-5 C:\Users\Руслан\.gradle\caches\transforms-3\1b9027d1a2cd3f1ae1245d45ea099cfa\transformed\jetified-material-ripple-release\res
+com.example.vdohvydoh.app-jetified-runtime-release-6 C:\Users\Руслан\.gradle\caches\transforms-3\23f742dd09ed4d0ece3bfe4841aae8ef\transformed\jetified-runtime-release\res
+com.example.vdohvydoh.app-jetified-runtime-saveable-release-7 C:\Users\Руслан\.gradle\caches\transforms-3\2943dcef2a88232f4ebbe4010c2e902a\transformed\jetified-runtime-saveable-release\res
+com.example.vdohvydoh.app-jetified-emoji2-1.3.0-8 C:\Users\Руслан\.gradle\caches\transforms-3\2d5344c9661d833cac927ee9893c4bd7\transformed\jetified-emoji2-1.3.0\res
+com.example.vdohvydoh.app-jetified-foundation-release-9 C:\Users\Руслан\.gradle\caches\transforms-3\31534de1d7dbdb1619b1b2ede619033a\transformed\jetified-foundation-release\res
+com.example.vdohvydoh.app-jetified-material-icons-core-release-10 C:\Users\Руслан\.gradle\caches\transforms-3\42af1af77b2126e636ae73aa56f42338\transformed\jetified-material-icons-core-release\res
+com.example.vdohvydoh.app-lifecycle-livedata-core-2.7.0-11 C:\Users\Руслан\.gradle\caches\transforms-3\45629c13d5ec5ad48cbbf26e2962055a\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.vdohvydoh.app-jetified-lifecycle-viewmodel-ktx-2.7.0-12 C:\Users\Руслан\.gradle\caches\transforms-3\46aa0842238d3e44692d89526da29110\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.vdohvydoh.app-jetified-startup-runtime-1.1.1-13 C:\Users\Руслан\.gradle\caches\transforms-3\4c2b712148287c11cdc3a0c7611e09b6\transformed\jetified-startup-runtime-1.1.1\res
+com.example.vdohvydoh.app-jetified-activity-ktx-1.8.2-14 C:\Users\Руслан\.gradle\caches\transforms-3\52c4f6d7936eb89fa7ce3d67a1128a18\transformed\jetified-activity-ktx-1.8.2\res
+com.example.vdohvydoh.app-jetified-annotation-experimental-1.4.0-15 C:\Users\Руслан\.gradle\caches\transforms-3\5b16429e1eb15120834d10a5eebee345\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.vdohvydoh.app-jetified-foundation-layout-release-16 C:\Users\Руслан\.gradle\caches\transforms-3\5cc103a948abaf5b39d25abae48fd2c4\transformed\jetified-foundation-layout-release\res
+com.example.vdohvydoh.app-lifecycle-runtime-2.7.0-17 C:\Users\Руслан\.gradle\caches\transforms-3\5e52624f43f8d37cb1998cb2d1707182\transformed\lifecycle-runtime-2.7.0\res
+com.example.vdohvydoh.app-jetified-savedstate-ktx-1.2.1-18 C:\Users\Руслан\.gradle\caches\transforms-3\61de9c424e93e878b5e1d3317a59c20b\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.vdohvydoh.app-jetified-customview-poolingcontainer-1.0.0-19 C:\Users\Руслан\.gradle\caches\transforms-3\66683516de3519491365539c44070194\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.vdohvydoh.app-jetified-activity-compose-1.8.2-20 C:\Users\Руслан\.gradle\caches\transforms-3\6fad7b42ee3d0537a3ca1185aa9eb73e\transformed\jetified-activity-compose-1.8.2\res
+com.example.vdohvydoh.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-21 C:\Users\Руслан\.gradle\caches\transforms-3\7d72d17d314aa780a6ec05a3f4201049\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.vdohvydoh.app-jetified-material3-release-22 C:\Users\Руслан\.gradle\caches\transforms-3\8cc9f09186d17554303c356d3dc3d10e\transformed\jetified-material3-release\res
+com.example.vdohvydoh.app-jetified-ui-util-release-23 C:\Users\Руслан\.gradle\caches\transforms-3\9576151e41619ea038e761fcacb3830b\transformed\jetified-ui-util-release\res
+com.example.vdohvydoh.app-jetified-animation-core-release-24 C:\Users\Руслан\.gradle\caches\transforms-3\9a9eadfb7fc5e0a75d73417fd90cf3cb\transformed\jetified-animation-core-release\res
+com.example.vdohvydoh.app-jetified-activity-1.8.2-25 C:\Users\Руслан\.gradle\caches\transforms-3\a8673474c6d2c25d9f9ec336d7a1bb74\transformed\jetified-activity-1.8.2\res
+com.example.vdohvydoh.app-jetified-animation-release-26 C:\Users\Руслан\.gradle\caches\transforms-3\a9be65c826600eb2bf0c8f7757127e2c\transformed\jetified-animation-release\res
+com.example.vdohvydoh.app-jetified-ui-tooling-preview-release-27 C:\Users\Руслан\.gradle\caches\transforms-3\af51c99f5faae23d68241810a2743e66\transformed\jetified-ui-tooling-preview-release\res
+com.example.vdohvydoh.app-jetified-ui-geometry-release-28 C:\Users\Руслан\.gradle\caches\transforms-3\b58f322e6c3b80e5cf8d1733ee127244\transformed\jetified-ui-geometry-release\res
+com.example.vdohvydoh.app-jetified-ui-unit-release-29 C:\Users\Руслан\.gradle\caches\transforms-3\be6be195eeeca89a6eccd351f89f8b92\transformed\jetified-ui-unit-release\res
+com.example.vdohvydoh.app-core-runtime-2.2.0-30 C:\Users\Руслан\.gradle\caches\transforms-3\c1926c6c23a296da580caffb25b33fc5\transformed\core-runtime-2.2.0\res
+com.example.vdohvydoh.app-jetified-ui-text-release-31 C:\Users\Руслан\.gradle\caches\transforms-3\c6822d7bc113509a105ab96001267141\transformed\jetified-ui-text-release\res
+com.example.vdohvydoh.app-jetified-lifecycle-runtime-ktx-2.7.0-32 C:\Users\Руслан\.gradle\caches\transforms-3\c70626f7f247313dc66c293427cc8e01\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.vdohvydoh.app-jetified-core-ktx-1.12.0-33 C:\Users\Руслан\.gradle\caches\transforms-3\ca84d8c20507e562d178d8f056ccedc2\transformed\jetified-core-ktx-1.12.0\res
+com.example.vdohvydoh.app-jetified-ui-graphics-release-34 C:\Users\Руслан\.gradle\caches\transforms-3\d757bf86a4adb1c4e6f1123ae3b2ec51\transformed\jetified-ui-graphics-release\res
+com.example.vdohvydoh.app-jetified-lifecycle-process-2.7.0-35 C:\Users\Руслан\.gradle\caches\transforms-3\d990f2d6a87bc6b0f6b6e093ec60f9dc\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.vdohvydoh.app-resValues-36 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\build\generated\res\resValues\debug
+com.example.vdohvydoh.app-packageDebugResources-37 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.vdohvydoh.app-packageDebugResources-38 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.vdohvydoh.app-merged_res-39 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\build\intermediates\merged_res\debug
+com.example.vdohvydoh.app-debug-40 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\src\debug\res
+com.example.vdohvydoh.app-main-41 C:\Users\Руслан\Desktop\ВДОХ ВЫДОХ\app\src\main\res
